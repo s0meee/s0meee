@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&animation=fadeIn&section=footer&text=👩🏻‍💻&fontAlign=70)
 
 ![s0meee's github stats](https://github-readme-stats.vercel.app/api?username=s0meee&show_icons=true)
 
