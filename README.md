@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=s0meee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=s0meee&fontSize=60)
 
 ![s0meee's github stats](https://github-readme-stats.vercel.app/api?username=s0meee&show_icons=true)
 
