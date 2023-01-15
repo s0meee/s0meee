@@ -1,7 +1,6 @@
 <div><h1>👋 Hi, I’m s0meee </h1></div>
 
-![s0meee's GitHub stats](https://github-readme-stats.vercel.app/api?username=s0meee&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s0meee&layout=compact&theme=dracula)]
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&animation=fadeIn&section=footer&text=👩🏻‍💻&fontAlign=70)
 
