@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=s0meee&fontSize=60&fontColor=#FFFFFF)
+<div align=center><h1>👋 Hi, I’m s0meee </h1></div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0meee&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
+![s0meee's github stats](https://github-readme-stats.vercel.app/api?username=s0meee&show_icons=true&theme=radical) 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&animation=fadeIn&section=footer&text=👩🏻‍💻&fontAlign=70)
 
