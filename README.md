@@ -1,4 +1,4 @@
-<div><h1>👋 Hi, I’m s0meee </h1></div>
+<div><h2>👋 Hi, I’m s0meee </h2></div>
 
 
 
