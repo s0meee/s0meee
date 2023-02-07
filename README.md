@@ -1,5 +1,5 @@
 <h2>👋 Hi, I’m s0meee </h2>
-
+https://github.com/sommizzu
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&animation=fadeIn&section=footer&text=👩🏻‍💻&fontAlign=70)
 
